@@ -568,7 +568,19 @@
       "id": 10
     }
   ],
-  "lt_issue": [
+  "laptop_issue": [
+    
+  ],
+  "leave_type":[
+    
+  ],
+  "leave_log":[
+
+  ],
+  "leave_history":[
+
+  ],
+  "leave_master":[
     
   ]
 }
